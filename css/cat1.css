@@ -8,8 +8,9 @@
     top: 0;
     right: 0;
     width: 100%;
+    height: 100px;
     padding: 15px 95px;
-    background: #707EC9;
+    background: #5A189A;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -44,8 +45,8 @@
 
 
 .header img{
-    height: 50px;
-    width: 50px;
+    height: 80px;  
+    width: 80px;
     margin-left: 170px;
     margin-right: -240px;
 }
